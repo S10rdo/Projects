@@ -1,0 +1,24 @@
+﻿ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
+1,task,7f8559d,closed,"driver_phase1.cpp, Container.h/cpp, Files.h/cpp, data.csv, MakeFile - skeleton",,Hong Wei Jiang,03-Mar,03-Mar,03-Mar,
+2,task,31705ac,closed,Container.h,,Joseph Kim,06-Mar,03-Mar,06-Mar,
+3,task,4c43189,closed,Container.cpp ,,"Stanley,Hong Wei, Joseph",08-Mar,03-Mar,08-Mar,
+4,task,b88d4c3,closed,Files.h,,Stanley,06-Mar,03-Mar,06-Mar,
+5,task,4c43189,closed,Files.cpp,,"Hong Wei, Stanley, Joseph",08-Mar,03-Mar,08-Mar,
+6,task,3d7038c,closed,data.csv,,Hong Wei,06-Mar,03-Mar,06-Mar,
+7,task,4c43189,closed,driver_phase1.cpp,,"Joseph,Hong Wei,Stanley",09-Mar,03-Mar,08-Mar,
+8,fix,dfbc7c6,closed,Container.h/.cpp,Stanley,Stanley,08-Mar,08-Mar,08-Mar,"Changed type int to float for floatArray"
+9,task,25971ad,closed,"Container.cpp, Files.cpp",,"Hong Wei, Joseph, Stanley",09-Mar,09-Mar,09-Mar,"Identified authors and editors"
+10,fix,8974371,closed,"issue_tracker_project_1.csv, driver_phase2.cpp, driver_phase1.cpp, floatArray.h/.cpp, Files.h/.cpp",Stanley,Stanley,10-Mar,10-Mar,10-Mar,"Created driver_phase2, updated relevant files to reflect class name change from 'Container' to 'floatArray' + fixed issue tracker errors"
+11,task,bbca513,closed,"floatArray.cpp - pop_back",,Hong Wei,15-Mar,10-Mar,12-Mar,,
+12,task,16afcb7,closed,"floatArray.cpp - erase",,Stanley,15-Mar,10-Mar,16-Mar,,
+13,task,84ea8cf,closed,"floatArray.cpp - resize",,Joseph,15-Mar,10-Mar,16-Mar,,
+14,task,84ea8cf,closed,"floatArray.cpp/floatArray.h",,"Joseph,Stanley,Hong Wei",15-Mar,10-Mar,16-Mar,,
+15,fix,c4ce8b6,closed,floatArray.cpp,Joseph,Stanley,12-Mar,12-Mar,12-Mar,"Changed reserve and pop_back functions, removed assertions"
+16,task,a469c5b,closed,"floatArray.cpp - at",,"Joseph,Hong Wei, Stanley",13-Mar,12-Mar,12-Mar,
+17,task,84ea8cf,closed,"floatArray.cpp - sortedInsert",,"Joseph,Hong Wei, Stanley",16-Mar,12-Mar,16-Mar,
+18,task,b91fbe9,closed,driver_phase2.cpp,,"Joseph,Hong Wei,Stanley",17-Mar,16-Mar,18-Mar,
+19,task,9372655,closed,"Phase 3 Skeleton",,Hong Wei,17-Mar,17-Mar,17-Mar,
+20,task,b91fbe9,closed,"Algorithms.h",,"Joseph,Hong Wei,Stanley",19-Mar,17-Mar,18-Mar,
+21,task,4d43e71,closed,"Algorithms.cpp",,"Joseph,Hong Wei,Stanley",21-Mar,17-Mar,20-Mar,
+22,task,4d43e71,closed,"driver_phase3.cpp",,"Joseph,Hong Wei,Stanley",23-Mar,17-Mar,20-Mar,
+23,test,fade390,closed,"all files",,"Joseph,Hong Wei,Stanley",23-Mar,23-Mar,23-Mar,"Went through all .h/.cpp files to ensure there is no error and also declaring which individual worked on the functions."

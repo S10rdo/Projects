@@ -1,0 +1,20 @@
+﻿ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
+1,task,e1f695e,closed,"skeleton",,Joseph,28-Apr,28-Apr,28-Apr,
+2,task,587ebd0,closed,"Child.h",,"Hong Wei",02-May,28-Apr,08-May,
+3,task,587ebd0,closed,"Child.cpp",,"Hong Wei",02-May,28-Apr,08-May,
+4,task,1255d3f,closed,"Child.csv",,"Joseph",02-May,28-Apr,04-May,
+5,task,587ebd0,closed,"Toy.h",,"Stanley",02-May,28-Apr,08-May,
+6,task,587ebd0,closed,"Toy.cpp",,"Stanley",02-May,28-Apr,08-May,
+7,task,1255d3f,closed,"Toy.csv",,"Joseph",02-May,28-Apr,04-May,
+8,task,1255d3f,closed,"files.h",,"Joseph",02-May,28-Apr,04-May,
+9,task,587ebd0,closed,"driver_phase_1.cpp",,"Hong Wei, Stanley, Joseph",04-May,28-Apr,08-May,
+10,fix,6cdfc16,closed,"fix on File.h and Toy.cpp and h",,"Joseph",04-May,04-May,04-May,There were errors on Toy.h and files.h 
+11,fix,587ebd0,closed,"Child, Toy.csv/.h/.cpp",Joseph,Joseph,08-May,08-May,08-May,"Organized the operator <<, added id and maxtoys on csv files, had to play around with "Child.h" and "Toy.h" to do errors"
+12,task,d54baaf,closed,"Child.h-phase 2 functions",,"Hong Wei",12-May,28-Apr,15-May,
+13,task,d54baaf,closed,"Child.cpp-phase 2 functions",,"Hong Wei",12-May,28-Apr,15-May,
+14,task,d54baaf,closed,"Toy.h-phase 2 functions",,"Stanley",12-May,28-Apr,15-May,
+15,task,d54baaf,closed,"Toy.cpp-phase 2 functions",,"Stanley",12-May,28-Apr,15-May,
+16,task,d54baaf,closed,"Cashier.h",,"Joseph",12-May,28-Apr,15-May,
+17,task,d54baaf,closed,"Cashier.cpp",,"Joseph",12-May,28-Apr,15-May,
+18,task,d54baaf,closed,"driver_phase_2.cpp",,"Hong Wei, Stanley, Joseph",12-May,28-Apr,15-May,
+19,fix,d54baaf,closed,"child.h, toy.h/.cpp",Joseph,Joseph,15-May,15-May,15-May,Destructor were deleted due to no need.
